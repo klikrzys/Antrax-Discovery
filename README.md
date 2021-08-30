@@ -1,2 +1,2 @@
 # Antrax-Discovery
-A simple console game made for highschool to showcase usage of object-oriented programming  
+Prosta gra w konsoli, zrobiona w liceum by przedstawić możliwości programowania obiektowego.
